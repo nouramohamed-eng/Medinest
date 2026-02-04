@@ -64,7 +64,9 @@ Open the folder in VS Code.
 Right-click on index.html and select "Open with Live Server" (requires the Live Server extension).
 
 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 📜 License
+
 This project is licensed under the MIT License.
