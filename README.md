@@ -44,15 +44,16 @@ Follow these simple steps to get the project up and running on your machine:
 Clone the Repository: Open your terminal or command prompt and run:
 
 Bash
-
+```
 git clone https://github.com/nouramohamed-eng/Medinest.git
-Navigate to the Project Directory:
+```
+* Navigate to the Project Directory:
 
 Bash
 ```
 cd medinest
 ```
-Open the Project:
+* Open the Project:
 
 Directly: Simply double-click the index.html file to open it in your default browser.
 
