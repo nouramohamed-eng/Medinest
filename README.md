@@ -36,3 +36,32 @@
 ├── style.css        # Main stylesheet
 ├── index.html       # Landing page structure
 └── README.md        # Project documentation
+
+💻 How to Run the Project Locally
+Follow these simple steps to get the project up and running on your machine:
+
+Clone the Repository: Open your terminal or command prompt and run:
+
+Bash
+
+git clone https://github.com/nouramohamed-eng/Medinest.git
+Navigate to the Project Directory:
+
+Bash
+
+cd medinest
+Open the Project:
+
+Directly: Simply double-click the index.html file to open it in your default browser.
+
+Using VS Code (Recommended):
+
+Open the folder in VS Code.
+
+Right-click on index.html and select "Open with Live Server" (requires the Live Server extension).
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+📜 License
+This project is licensed under the MIT License.
