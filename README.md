@@ -37,7 +37,8 @@
 ├── index.html       # Landing page structure
 └── README.md        # Project documentation
 
-💻 How to Run the Project Locally
+
+## 💻 How to Run the Project Locally
 Follow these simple steps to get the project up and running on your machine:
 
 Clone the Repository: Open your terminal or command prompt and run:
