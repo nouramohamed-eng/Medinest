@@ -49,8 +49,9 @@ git clone https://github.com/nouramohamed-eng/Medinest.git
 Navigate to the Project Directory:
 
 Bash
-
+```
 cd medinest
+```
 Open the Project:
 
 Directly: Simply double-click the index.html file to open it in your default browser.
